@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "javeed3157",
+      "name": "SHAIK JAVEED SUHAIL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73298565?v=4",
+      "profile": "https://personal-portfolio-git-master-javeed3157.vercel.app/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "event-aggregator-demo",
+  "projectOwner": "KamalDGRT",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
